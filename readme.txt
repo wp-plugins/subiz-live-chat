@@ -1,10 +1,10 @@
 === Subiz Live Chat ===
-Contributors: 
+Contributors: mrsubiz
 Donate link: 
 Tags: widget, plugin, sidebar, enhancement, livechat, chat, widget
 Requires at least: 2.8
 Tested up to: 3.5.1
-Stable tag: 
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
