@@ -4,15 +4,15 @@
 	Plugin URI: http://support.subiz.com/support/solutions/articles/76904-subiz-plugins
 	Description: A Plugin to deploy the Subiz widget on your self-hosted Wordpress blog and easy Live chat support software for business in real time
 	Version: 1.0
-	Author: Nguyen Hai Nam
+	Author: mrsubiz
 	Author URI: http://subiz.com
 	License: GPL2
 	*/
 	# Init && Load plugin
-	$sfw_plugin 	= 'subiz-for-wp';
-	$sfw_plugin_url = get_option('siteurl').'/'.PLUGINDIR.'/subiz-for-wp/';
+	$sfw_plugin 	= 'subiz-live-chat';
+	$sfw_plugin_url = get_option('siteurl').'/'.PLUGINDIR.'/subiz-live-chat/';
 	$sfw_domain 	= 'SubizForWP'; 
-	load_plugin_textdomain($sfw_domain, 'wp-content/plugins/subiz-for-wp');
+	load_plugin_textdomain($sfw_domain, 'wp-content/plugins/subiz-live-chat');
 	add_action('init', 'sfw_init');
 	add_action('wp_footer', 'sfw_insert');
 	add_action('wp_ajax_my_action', 'subiz_action_callback');
@@ -42,8 +42,8 @@
 
 	# Subiz plugin with some settings 
 	function sfw_settings(){
-		register_setting( 'subiz-for-wp-group', 'subiz_verified_email' );
-		add_settings_section( 'subiz-for-wp', "Subiz for WP","", 'subiz-for-wp-group' );
+		register_setting( 'subiz-live-chat-group', 'subiz_verified_email' );
+		add_settings_section( 'subiz-live-chat', "Subiz for WP","", 'subiz-live-chat-group' );
 	}
 
 	# Update subiz widget code options 
@@ -69,7 +69,7 @@
 					<div class="inside" style="padding: 0 10px;">
 						<p style="text-align:center"><a target="_blank" href="http://subiz.com/?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.0" title="Subiz Live chat - Live support Solution for Business websites"><img src="<?php echo($sfw_plugin_url) ?>subiz-logo.png" width="173" height="49" alt="Subiz Logo" /></a></p>
 						<form  name="subiz_install_widget" id="subiz_install_widget" method="post" action="options.php">
-							<?php settings_fields('subiz-for-wp-group'); ?>
+							<?php settings_fields('subiz-live-chat-group'); ?>
 							<p align="center">
 								<strong><?php if(isset($subiz_verified_email_chk) && $subiz_verified_email_chk != ''){ echo '<font color="green">Subiz Live chat has installed successfully</font>';}else{ echo 'Enter subiz account email to install the widget';} ?></strong>
 								</p>
