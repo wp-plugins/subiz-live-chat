@@ -67,7 +67,7 @@
 				<div class="postbox" id="subizActivateBox" style="float:left;width:30em;margin-right:20px;">
 					<h3 class="hndle" align="center"><span>Subiz Live chat - Set up your Subiz Account</span></h3>
 					<div class="inside" style="padding: 0 10px;">
-						<p style="text-align:center"><a target="_blank" href="http://subiz.com/?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.0" title="Subiz Live chat - Live support Solution for Business websites"><img src="<?php echo($sfw_plugin_url) ?>subiz-logo.png" width="173" height="49" alt="Olark Logo" /></a></p>
+						<p style="text-align:center"><a target="_blank" href="http://subiz.com/?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.0" title="Subiz Live chat - Live support Solution for Business websites"><img src="<?php echo($sfw_plugin_url) ?>subiz-logo.png" width="173" height="49" alt="Subiz Logo" /></a></p>
 						<form  name="subiz_install_widget" id="subiz_install_widget" method="post" action="options.php">
 							<?php settings_fields('subiz-for-wp-group'); ?>
 							<p align="center">
@@ -88,7 +88,7 @@
 				<div class="postbox" id="subizDisActivateBox" style="float:left;width:30em;margin-right:20px;display: none;">
 					<h3 class="hndle"><span>Subiz Live chat - Live support Solution for Business</span></h3>
 					<div class="inside" style="padding: 0 10px">
-						<p style="text-align:center"><a target="_blank" href="http://subiz.com/?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.0" title="Subiz Live chat - Live support Solution for Business websites"><img src="<?php echo($sfw_plugin_url) ?>subiz-logo.png" width="173" height="49" alt="Olark Logo" /></a></p>
+						<p style="text-align:center"><a target="_blank" href="http://subiz.com/?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.0" title="Subiz Live chat - Live support Solution for Business websites"><img src="<?php echo($sfw_plugin_url) ?>subiz-logo.png" width="173" height="49" alt="Subiz Logo" /></a></p>
 						<form name="subiz_register_widget" id="subiz_register_widget" method="post">
 							<p align="center"><strong>Register for free subiz account</strong></p>
 							<p>
