@@ -31,7 +31,7 @@ Step-by-step Guide:
 * Install plugin from WordPress directory and activate it.
 * Under Settings section, click on Subiz Live Chat to link up your Subiz account
 * Enter your Subiz email account.
-* Connect your chat client via Chat Program (Pidgin, Adium, Trillian...) .
+* Connect your chat client via Chat Program ([Pidgin, Adium, Trillian](http://support.subiz.com/support/solutions/articles/63594-chat-program-tutorials)...) .
 * Done! Celebrate! Visit your website, you should see your Subiz chat box in the bottom of your site.
 
 == Frequently asked questions ==
