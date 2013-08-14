@@ -23,13 +23,13 @@ Easy to install live chat widget , no configuration is required
 
 Follow Subiz, Love Subiz:
 
-* [Support Center] (http://support.subiz.com/support/home/?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.0)
+* [Support Center](http://support.subiz.com/support/home/?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.0)
 
 * [Blog](http://subiz.com/blog/?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.0)
 
-* [Facebook] (https://www.facebook.com/subizdotcom)
+* [Facebook](https://www.facebook.com/subizdotcom)
 
-* [Twitter] (https://twitter.com/subizdotcom)
+* [Twitter](https://twitter.com/subizdotcom)
 
 == Installation ==
 
