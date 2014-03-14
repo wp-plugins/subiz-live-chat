@@ -67,7 +67,7 @@ function sfw_add_settings_page() {
                                     ?></strong>
                             </p>
                             <p align="center">
-                                Licence ID: <input type="text" name="subiz_licence_id" id="subiz_licence_id" value="<?php echo get_option('subiz_licence_id'); ?>" style="width:75%" />
+                                Licence ID: <input type="text" name="subiz_licence_id" id="subiz_licence_id" value="1" style="width:75%" />
                             </p>
                             <p class="submit" align="center">
                                 <input id="subiz_activate_bt" type="submit" class="button-primary" value="<?php
