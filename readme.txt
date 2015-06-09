@@ -36,10 +36,11 @@ A website without subiz is nothing different comparing to a store without salepe
 Apply Subiz Live Chat plugin now and [sign up here](https://dashboard.subiz.com/signup.html?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.1) for free!
 
 **Don't forget to follow and love Subiz:**
-*[Support Center](http://support.subiz.com/support/home/?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.1)
-*[Blog](http://subiz.com/blog/?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.1)
-*[Facebook](https://www.facebook.com/subizdotcom)
-*[Twitter](https://twitter.com/subizdotcom)
+
+[Support Center](http://support.subiz.com/support/home/?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.1)
+[Blog](http://subiz.com/blog/?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.1)
+[Facebook](https://www.facebook.com/subizdotcom)
+[Twitter](https://twitter.com/subizdotcom)
 
 == Installation ==
 
@@ -62,25 +63,28 @@ Though designed to work on most browsers, Subiz works best in the following envi
 The plugin comes with a free plan specially tailored for WordPress users. Power users can purchase upgrade options anytime.
 
 = How can I upgrade my account? =
-Follow the instruction to create Subscription: [How to create subscription] (http://support.subiz.com/support/solutions/articles/3000004814-how-to-create-a-subscription-?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.1)
+Follow the instruction to create Subscription:[How to create subscription](http://support.subiz.com/support/solutions/articles/3000004814-how-to-create-a-subscription-?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.1)
 
 = How can I invite visitors to chat? =
 There are 2 ways:
-*a. anually: You can click to each visitor displayed on list to chat with them 
+
+*a. Manually: You can click to each visitor displayed on list to chat with them 
 *b. Automatically: If you are in premium user, you can use Trigger as a tool to invite visitors to chat proactively.
 
 = How can I customize live chat widget? =
 Go to Dashboard >> Settings >> Chat widget >> Theme
-***Color:** On the right hand-side, you can choose the 5 given colors or customize which color you like.
-***Widget position:** You can choose the widget's position on the left or right.
-***Logo:** In the third part on the right, click to upload logo image (image size must not exceed 50Kb)
-***Language:** You can switch language on chat widget into a certain language (English, French, Vietnamese,...) or choose Auto Detect mode
+
+**Color:** On the right hand-side, you can choose the 5 given colors or customize which color you like.
+**Widget position:** You can choose the widget's position on the left or right.
+**Logo:** In the third part on the right, click to upload logo image (image size must not exceed 50Kb)
+**Language:** You can switch language on chat widget into a certain language (English, French, Vietnamese,...) or choose Auto Detect mode
 
 = How can I know when my visitors send messages? =
 There 3 types of notification for you to alert when you have incoming messages from visitors
-a. Sound
-b. Notify number
-c. Desktop Notification
+
+*a. Sound
+*b. Notify number
+*c. Desktop Notification
 
 = Is there any further support to help me utilise Subiz effectively? =
 When implementing Subiz and interacting with online visitors, you may face with many difficulties. Don't worry! You can find a ton of useful tips regarding live chat & customer service on Subiz Blog. Otherwise, just chat with our support heroes at <http://subiz.com/> or leave us an email at support@subiz.com.
@@ -90,9 +94,9 @@ When implementing Subiz and interacting with online visitors, you may face with 
 1. Chat widget on website
 2. Chat with customers on the go
 3. Manage visitors on Dashboard
-4. Dashboard chat window
-5. Customize widget from Dashboard
-6. Dashboard report
+32. Dashboard chat window
+33. Customize widget from Dashboard
+34. Dashboard report
 
 == Changelog ==
 
