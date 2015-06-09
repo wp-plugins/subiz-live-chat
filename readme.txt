@@ -71,6 +71,7 @@ There are 2 ways:
 
 = How can I customize live chat widget? =
 Go to Dashboard >> Settings >> Chat widget >> Theme
+
 * **Color:** On the right hand-side, you can choose the 5 given colors or customize which color you like.
 * **Widget position:** You can choose the widget's position on the left or right.
 * **Logo:** In the third part on the right, click to upload logo image (image size must not exceed 50Kb)
@@ -78,6 +79,7 @@ Go to Dashboard >> Settings >> Chat widget >> Theme
 
 = How can I know when my visitors send messages? =
 There 3 types of notification for you to alert when you have incoming messages from visitors
+
 * Sound
 * Notify number
 * Desktop Notification
