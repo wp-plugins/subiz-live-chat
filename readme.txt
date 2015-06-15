@@ -12,9 +12,9 @@ A live chat widget integrated in Wordpress website to turn your boring website i
 
 == Description ==
 
-It is an obvious disadvantage for online businesses that leave their visitors passively surf the store or wait for the unresponsive email system or costly and busy hotline service. Subiz live chat is designed as a web-based plugin to solve these entire problems.
+Using hotline or email as the main communication channel with customers may bring many drawbacks for online businesses as their visitors are left to passively surf the store or wait for the unresponsive email system or the busy hotline service. Subiz live chat is designed as a web-based plugin to solve these entire problems.
 
-[Subiz Live Chat](http://subiz.com/?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.0) offers excellent communication channel where website owner can engage directly with visitors, fulfill every single enquiry in real-time, and actively receive feedback. All of these interaction would happen on a chat widget docked at the bottom of website display, running in real-time while the webpages are being browsed. This fully functional live chat tool will turn website visitor into paying customers, increase conversion rates, and generate more loyal customers.
+[Subiz Live Chat](http://subiz.com/?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.0) offers excellent communication platform where website owner can engage directly with visitors, fulfill every single enquiry in real-time, and actively receive feedback. All of these interaction would happen on a chat widget docked at the pre-determined place on the webpage, running in real-time while visitor are exploring the website. This fully functional live chat tool will turn website visitor into paying customers, increase conversion rates, and generate more loyal customers.
 
 [youtube https://www.youtube.com/watch?v=vuoZw77XivQ]
 
