@@ -1,7 +1,7 @@
 === Subiz Live Chat ===
 Contributors: mrsubiz
 Donate link: 
-Tags: subiz, subiz live chat, widget, plugin, sidebar, enhancement, livechat, chat, chat online, contact plugin, contact us, customer support, free chat, chat software, IM chat, live chat, live chat inc, live chat services, live chat software, live chatting, live help, live support, live web chat, livehelp, livesupport, olark, online chat, online support, php live chat, snapengage, support software, website chat, wordpress chat, wordpress live chat, wordpress live chat plugin, Zopim, zendesk, Zopim live chat, banckle, clickdesk, click desk, helpdesk
+Tags: subiz, subiz live chat, online sale, website sale, widget, plugin, sidebar, enhancement, livechat, chat, chat online, contact plugin, contact us, customer support, customer service, free chat, chat software, chat plugin, sale plugin, onine sale plugin, IM chat, live chat, live chat inc, live chat services, live chat software, live chatting, live help, live support, live web chat, livehelp, livesupport, olark, online chat, online support, online support plugin, php live chat, snapengage, support software, website chat, wordpress chat, wordpress live chat, wordpress live chat plugin, Zopim, zendesk, Zopim live chat, banckle, clickdesk, click desk, helpdesk, 
 Requires at least: 2.8
 Tested up to: 4.2.2
 Stable tag: 1.0
@@ -18,17 +18,18 @@ Using hotline or email as the main communication channel with customers may brin
 
 [youtube https://www.youtube.com/watch?v=vuoZw77XivQ]
 
-This free chat plugin is specifically designed for you to quickly install Subiz live chat software onto your WordPress site. Subiz live chat plugin will boost your sales and customer satisfaction.
+Subiz is a free chat plugin which is specifically designed for your WordPress site. This plugin will boost your sales and customer satisfaction.
 
 **Plugin Features:**
 
-* Smart Dashboard offers unique method of visualizing and understanding visitors: who they are, where they come from, what they are looking for
-* From Dashboard display, sale and customer service team can actively invite them for a chat and provide direct support. Subiz allows up to 200 chat conversations occurring at the same time
+* Smart Dashboard offers unique method to target visitors: who they are, where they come from, what they are looking for
+* From Dashboard display, sales and customer service team can actively approach them with a chatting invitation and provide direct support. Subiz allows up to 200 concurrent coversations
 * Chat widget can be fully customized to match with website display: size, color, theme, avatar, font,...
-* Subiz can be optimizable on mobile device where support team can login to Subiz account using apps such as Pidgin, Adium, Trillian to chat with website visitors
-* Trigger, as known as the auto chat invitation, enables supporter to send chat invitations automatically based various preset rules
-* By storing chat history in a secure server and assigning agent to groups, business owner can manage sale and support team effectively and assure safety of information
-* Subiz provides advanced analytics and report on operator activity using integrated Google Analytics
+* Customer service team can support for visitors on the go from any device using 3rd-party apps such as Pidgin, Adium, Trillian
+* Trigger, an automatic feature, enables supporter to send chat invitations automatically based various preset rules
+* Subiz assure safety of data by storing chat history in a secure server
+* Subiz enables agent to be assigned to groups by which business owner can manage effectively sales and support performance 
+* Google Analytics are integrated to provides operational reporting
 
 Subiz gathers all powerful features into a live chat solution to provide premium customer service. 
 A website without subiz is nothing different comparing to a store without saleperson. 
@@ -86,16 +87,13 @@ There 3 types of notification for you to alert when you have incoming messages f
 * Desktop Notification
 
 = Is there any further support to help me utilise Subiz effectively? =
-When implementing Subiz and interacting with online visitors, you may face with many difficulties. Don't worry! You can find a ton of useful tips regarding live chat & customer service on Subiz Blog. Otherwise, just chat with our support heroes at <http://subiz.com/> or leave us an email at support@subiz.com.
+You may face with many difficulties installing and using Subiz. Don't worry! You can find a ton of useful tips regarding live chat & customer service on [Subiz Blog]. Otherwise, just chat with our support heroes at [subiz.com](http://subiz.com/ or leave us an email at support@subiz.com.
 
 
 == Screenshots ==
 1. Chat widget on website
-2. Chat with customers on the go
-3. Manage visitors on Dashboard
-4. Dashboard chat window
-5. Customize widget from Dashboard
-6. Dashboard report
+2. Manage visitors on Dashboard
+3. Customize widget from Dashboard
 
 == Changelog ==
 
