@@ -87,7 +87,7 @@ There 3 types of notification for you to alert when you have incoming messages f
 * Desktop Notification
 
 = Is there any further support to help me utilise Subiz effectively? =
-You may face with many difficulties installing and using Subiz. Don't worry! You can find a ton of useful tips regarding live chat & customer service on [Subiz Blog]. Otherwise, just chat with our support heroes at [subiz.com](http://subiz.com/ or leave us an email at support@subiz.com.
+You may face with many difficulties installing and using Subiz. Don't worry! You can find a ton of useful tips regarding live chat & customer service on [Subiz Blog](http://subiz.com/blog/?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.0). Otherwise, just chat with our support heroes at [subiz.com](http://subiz.com/?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.0) or leave us an email at support@subiz.com.
 
 
 == Screenshots ==
