@@ -22,8 +22,8 @@ Subiz is a free chat plugin which is specifically designed for your WordPress si
 
 **Plugin Features:**
 
-* Smart Dashboard offers unique method to target visitors: who they are, where they come from, what they are looking for
-* From Dashboard display, sales and customer service team can actively approach them with a chatting invitation and provide direct support. Subiz allows up to 200 concurrent coversations
+* Dashboard offers unique method to target visitors: who they are, where they come from, what they are looking for
+* From Dashboard display, sales and customer service team can actively approach visitors with a chatting invitation and provide direct support. Subiz allows up to 200 concurrent coversations
 * Chat widget can be fully customized to match with website display: size, color, theme, avatar, font,...
 * Customer service team can support for visitors on the go from any device using 3rd-party apps such as Pidgin, Adium, Trillian
 * Trigger, an automatic feature, enables supporter to send chat invitations automatically based various preset rules
