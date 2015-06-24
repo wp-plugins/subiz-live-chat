@@ -1,7 +1,7 @@
 === Subiz Live Chat ===
 Contributors: mrsubiz
 Donate link: 
-Tags: subiz, subiz live chat, online sale, website sale, widget, plugin, sidebar, enhancement, livechat, chat, chat online, contact plugin, contact us, customer support, customer service, free chat, chat software, chat plugin, sale plugin, onine sale plugin, IM chat, live chat, live chat inc, live chat services, live chat software, live chatting, live help, live support, live web chat, livehelp, livesupport, olark, online chat, online support, online support plugin, php live chat, snapengage, support software, website chat, wordpress chat, wordpress live chat, wordpress live chat plugin, Zopim, zendesk, Zopim live chat, banckle, clickdesk, click desk, helpdesk, 
+Tags: live chat agent customer service tips, subiz, subiz live chat, online sale, website sale, widget, plugin, sidebar, enhancement, livechat, chat, chat online, contact plugin, contact us, customer support, customer service, free chat, chat software, chat plugin, sale plugin, onine sale plugin, IM chat, live chat, live chat inc, live chat services, live chat software, live chatting, live help, live support, live web chat, livehelp, livesupport, olark, online chat, online support, online support plugin, php live chat, snapengage, support software, website chat, wordpress chat, wordpress live chat, wordpress live chat plugin, Zopim, zendesk, Zopim live chat, banckle, clickdesk, click desk, helpdesk, 
 Requires at least: 2.8
 Tested up to: 4.2.2
 Stable tag: 1.0
@@ -32,7 +32,7 @@ Subiz is a free chat plugin which is specifically designed for your WordPress si
 * Google Analytics are integrated to provides operational reporting
 
 Subiz gathers all powerful features into a live chat solution to provide premium customer service. 
-A website without subiz is nothing different comparing to a store without saleperson. 
+A website without subiz is nothing different comparing to a store without salesperson. 
 
 Apply Subiz Live Chat plugin now and [sign up here](https://dashboard.subiz.com/signup.html?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.0) for free!
 
