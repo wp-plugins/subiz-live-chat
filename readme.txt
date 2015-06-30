@@ -31,7 +31,7 @@ Subiz is a free chat plugin which is specifically designed for your WordPress si
 * Subiz enables agent to be assigned to groups by which business owner can manage effectively sales and support performance 
 * Google Analytics are integrated to provides operational reporting
 
-Subiz gathers all powerful features into a live chat solution to provide premium customer service. 
+Subiz combines all powerful features into a live chat solution to provide premium customer service. 
 A website without subiz is nothing different comparing to a store without salesperson. 
 
 Apply Subiz Live Chat plugin now and [sign up here](https://dashboard.subiz.com/signup.html?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.0) for free!
