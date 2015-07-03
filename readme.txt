@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-An on-site live chat widget integrated in Wordpress website to turn your boring website into a real store with direct support for visitors!
+An on-site live chat plugin to turn your passive website into a real store by personalization and human touch!
 
 == Description ==
 
