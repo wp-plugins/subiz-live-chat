@@ -1,9 +1,9 @@
-<?php
+﻿<?php
 	/*
 	Plugin Name: Subiz Live Chat
 	Plugin URI: http://support.subiz.com/support/solutions/articles/76904-subiz-plugins
 	Description: A Plugin to deploy the Subiz widget on your self-hosted Wordpress blog and easy Live chat support software for business in real time
-	Version: 1.0
+	Version: 1.1
 	Author: mrsubiz
 	Author URI: http://subiz.com
 	License: GPL2
