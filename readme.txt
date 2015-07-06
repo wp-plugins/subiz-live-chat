@@ -4,7 +4,7 @@ Donate link:
 Tags: live chat agent customer service tips, subiz, subiz live chat, online sale, website sale, widget, plugin, sidebar, enhancement, livechat, chat, chat online, contact plugin, contact us, customer support, customer service, free chat, chat software, chat plugin, sale plugin, onine sale plugin, IM chat, live chat, live chat inc, live chat services, live chat software, live chatting, live help, live support, live web chat, livehelp, livesupport, olark, online chat, online support, online support plugin, php live chat, snapengage, support software, website chat, wordpress chat, wordpress live chat, wordpress live chat plugin, Zopim, zendesk, Zopim live chat, banckle, clickdesk, click desk, helpdesk, 
 Requires at least: 2.8
 Tested up to: 4.2.2
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
