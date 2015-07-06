@@ -31,7 +31,7 @@ Subiz is a free chat plugin which is specifically designed for your WordPress si
 * Subiz enables agent to be assigned to groups by which business owner can manage effectively sales and support performance 
 * Google Analytics are integrated to provides operational reporting
 
-Language available: English, Português, Français, Italiano, Español, Deutsch, Ti?ng Vi?t, ??, ?????
+Language available: English, Portuguese, French, Italiano, Espanol, Germany, Vietnamese, Chinese, Persian
 
 Subiz combines all powerful features into a live chat solution to provide premium customer service. 
 A website without subiz is nothing different comparing to a store without salesperson. 
@@ -79,7 +79,7 @@ Go to Dashboard >> Settings >> Chat widget >> Theme
 * **Color:** On the right hand-side, you can choose the 5 given colors or customize which color you like.
 * **Widget position:** You can choose the widget's position on the left or right.
 * **Logo:** In the third part on the right, click to upload logo image (image size must not exceed 50Kb)
-* **Language:** You can switch language on chat widget into a certain language (English, Português, Français,...) or choose Auto Detect mode
+* **Language:** You can switch language on chat widget into a certain language (English, Portuguese, Vietnamese,...) or choose Auto Detect mode
 
 = How can I know when my visitors send messages? =
 There 3 types of notification for you to alert when you have incoming messages from visitors
