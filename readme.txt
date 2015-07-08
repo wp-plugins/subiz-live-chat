@@ -4,7 +4,7 @@ Donate link:
 Tags: live chat agent customer service tips, subiz, subiz live chat, online sale, website sale, widget, plugin, sidebar, enhancement, livechat, chat, chat online, contact plugin, contact us, customer support, customer service, free chat, chat software, chat plugin, sale plugin, onine sale plugin, IM chat, live chat, live chat inc, live chat services, live chat software, live chatting, live help, live support, live web chat, livehelp, livesupport, olark, online chat, online support, online support plugin, php live chat, snapengage, support software, website chat, wordpress chat, wordpress live chat, wordpress live chat plugin, Zopim, zendesk, Zopim live chat, banckle, clickdesk, click desk, helpdesk, 
 Requires at least: 2.8
 Tested up to: 4.2.2
-Stable tag: 1.1
+Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -14,7 +14,7 @@ An on-site live chat plugin to turn your passive website into a real store by pe
 
 Using hotline or email as the main communication channel with customers may bring many drawbacks for online businesses as their visitors can be left to passively surf the store or wait for the unresponsive email system or the busy hotline service. Subiz live chat is designed as a web-based plugin to solve these entire problems.
 
-[Subiz Live Chat](http://subiz.com/?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.1) offers excellent communication platform where website owner can engage directly with visitors, fulfill every single enquiry in real-time, and actively receive feedback. All of these interaction would happen on a chat widget docked at the pre-determined place on the webpage, running in real-time while visitor are exploring the website. This fully functional live chat tool will turn website visitor into paying customers, increase conversion rates, and generate more loyal customers.
+[Subiz Live Chat](http://subiz.com/?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.0) offers excellent communication platform where website owner can engage directly with visitors, fulfill every single enquiry in real-time, and actively receive feedback. All of these interaction would happen on a chat widget docked at the pre-determined place on the webpage, running in real-time while visitor are exploring the website. This fully functional live chat tool will turn website visitor into paying customers, increase conversion rates, and generate more loyal customers.
 
 [youtube https://www.youtube.com/watch?v=vuoZw77XivQ]
 
@@ -36,11 +36,11 @@ Language available: English, Portuguese, French, Italiano, Espanol, Germany, Vie
 Subiz combines all powerful features into a live chat solution to provide premium customer service. 
 A website without subiz is nothing different comparing to a store without salesperson. 
 
-Apply Subiz Live Chat plugin now and [sign up here](https://dashboard.subiz.com/signup.html?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.1) for free!
+Apply Subiz Live Chat plugin now and [sign up here](https://dashboard.subiz.com/signup.html?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.0) for free!
 
 **Don't forget to follow and love Subiz:**
-[Support Center](http://support.subiz.com/support/home/?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.1),
-[Blog](http://subiz.com/blog/?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.1),
+[Support Center](http://support.subiz.com/support/home/?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.0),
+[Blog](http://subiz.com/blog/?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.0),
 [Facebook](https://www.facebook.com/subizdotcom),
 [Twitter](https://twitter.com/subizdotcom),
 
@@ -65,7 +65,7 @@ Though designed to work on most browsers, Subiz works best in the following envi
 The plugin comes with a free plan specially tailored for WordPress users. Power users can purchase upgrade options anytime.
 
 = How can I upgrade my account? =
-Follow the instruction to create Subscription: [How to create subscription](http://support.subiz.com/support/solutions/articles/3000004814-how-to-create-a-subscription-?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.1)
+Follow the instruction to create Subscription: [How to create subscription](http://support.subiz.com/support/solutions/articles/3000004814-how-to-create-a-subscription-?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.0)
 
 = How can I invite visitors to chat? =
 There are 2 ways:
@@ -89,7 +89,7 @@ There 3 types of notification for you to alert when you have incoming messages f
 * Desktop Notification
 
 = Is there any further support to help me utilise Subiz effectively? =
-You may face with many difficulties installing and using Subiz. Don't worry! You can find a ton of useful tips regarding live chat & customer service on [Subiz Blog](http://subiz.com/blog/?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.1). Otherwise, just chat with our support heroes at [subiz.com](http://subiz.com/?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.1) or leave us an email at support@subiz.com.
+You may face with many difficulties installing and using Subiz. Don't worry! You can find a ton of useful tips regarding live chat & customer service on [Subiz Blog](http://subiz.com/blog/?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.0). Otherwise, just chat with our support heroes at [subiz.com](http://subiz.com/?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.0) or leave us an email at support@subiz.com.
 
 
 == Screenshots ==
@@ -98,10 +98,6 @@ You may face with many difficulties installing and using Subiz. Don't worry! You
 3. Customize widget from Dashboard
 
 == Changelog ==
-
-= 1.1 =
-* New language available for live chat widget
-
 
 = 1.0 = 
 
