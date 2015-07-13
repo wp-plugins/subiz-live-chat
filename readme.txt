@@ -8,7 +8,7 @@ Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-An on-site live chat plugin to turn your passive website into a real store by personalization and human touch!
+A Wordpress live chat plugin to turn your passive website into a real store by personalization and human touch!
 
 == Description ==
 
@@ -101,7 +101,7 @@ You may face with many difficulties installing and using Subiz. Don't worry! You
 
 = 1.1 =
 
-* New language available on widget
+* New language available for widget
 
 = 1.0 = 
 
