@@ -6,7 +6,7 @@ Requires at least: 2.8
 Tested up to: 4.2.2
 Stable tag: 1.1
 License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License URI: http://www.gnu.org/licenses/gpl.html
 
 A Wordpress live chat plugin to turn your passive website into a real store by personalization and human touch!
 
@@ -46,12 +46,14 @@ Apply Subiz Live Chat plugin now and [sign up here](https://dashboard.subiz.com/
 
 == Installation ==
 
-* Install Subiz plugin from WordPress directory and activate it.
-* Under Settings section, click on Subiz Live Chat which links to your Subiz account
-* Enter your Subiz email account and password.
+* Register account at [Subiz.com](https://dashboard.subiz.com/signup.html?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.1) 
+* Login to Subiz Dashboard and find your license ID
+* Download Subiz plugin from WordPress plugin directory.
+* Install Subiz widget in Plugin section of your WordPress Dashboard
+* Insert your Subiz licence ID
 * Customize chat widget to match your preference.
-* Visit your website, you should see your Subiz chat box at the bottom of your site.
-* Finally, from Dashboard, manage your visitors and start chat.
+* Visit your website, you should see your Subiz chat widget at the bottom of your site.
+* From Subiz Dashboard, you can manage your visitors and start chat.
 
 == Frequently asked questions ==
 
