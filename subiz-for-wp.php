@@ -2,11 +2,11 @@
 /*
   Plugin Name: Subiz Live Chat
   Plugin URI: http://support.subiz.com/support/solutions/articles/76904-subiz-plugins
-  Description: A Plugin to deploy the Subiz widget on your self-hosted Wordpress blog and easy Live chat support software for business in real time
+  Description: Subiz live chat plugin offers an excellent customer interaction platform where sales and customer service team can communicate directly with visitors, fulfil any enquiry in real-time, and actively receive feedback
   Version: 1.1
   Author: mrsubiz
   Author URI: http://subiz.com
-  License: GPL2
+  License: GPL3
  */
 # Init && Load plugin
 $sfw_plugin = 'subiz-live-chat';
@@ -53,7 +53,7 @@ function sfw_add_settings_page() {
                 <div class="postbox" id="subizActivateBox" style="float:left;width:30em;margin-right:20px;">
                     <h3 class="hndle" align="center"><span>Subiz Live chat - Set up your Subiz Account</span></h3>
                     <div class="inside" style="padding: 0 10px;">
-                        <p style="text-align:center"><a target="_blank" href="http://subiz.com/?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.1" title="Subiz Live chat - Live support Solution for Business websites"><img src="<?php echo($sfw_plugin_url) ?>subiz-logo.png" width="173" height="49" alt="Subiz Logo" /></a></p>
+                        <p style="text-align:center"><a target="_blank" href="http://subiz.com/?utm_source=plugin_wp&utm_medium=plugin&utm_campaign=plugin_wp1.1" title="Subiz Live chat - Live support Solution for Business websites"><img src="<?php echo($sfw_plugin_url) ?>subiz-logo.png" width="173" height="49" alt="Subiz Logo" /></a></p>
 
                         <form  name="subiz_install_widget" id="subiz_install_widget" method="post" action="">
                                     <?php settings_fields('subiz-live-chat-group'); ?>
@@ -87,7 +87,7 @@ function sfw_add_settings_page() {
                 <div class="postbox" id="subizDisActivateBox" style="float:left;width:30em;margin-right:20px;display: none;">
                     <h3 class="hndle"><span>Subiz Live chat - Live support Solution for Business</span></h3>
                     <div class="inside" style="padding: 0 10px">
-                        <p style="text-align:center"><a target="_blank" href="http://subiz.com/?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.1" title="Subiz Live chat - Live support Solution for Business websites"><img src="<?php echo($sfw_plugin_url) ?>subiz-logo.png" width="173" height="49" alt="Subiz Logo" /></a></p>
+                        <p style="text-align:center"><a target="_blank" href="http://subiz.com/?utm_source=plugin_wp&utm_medium=plugin&utm_campaign=plugin_wp1.1" title="Subiz Live chat - Live support Solution for Business websites"><img src="<?php echo($sfw_plugin_url) ?>subiz-logo.png" width="173" height="49" alt="Subiz Logo" /></a></p>
                         <form name="subiz_register_widget" id="subiz_register_widget" method="post">
                             <p align="center"><strong>Register for free subiz account</strong></p>
                             <p>

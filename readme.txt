@@ -14,7 +14,7 @@ A Wordpress live chat plugin to turn your passive website into a real store by p
 
 Using hotline or email as the main customers interaction channel may bring many drawbacks for online businesses as their visitors can be left to passively surf the store or wait for the unresponsive email system or the busy hotline service. Subiz live chat is designed as a web-based plugin to solve these entire problems.
 
-[Subiz Live Chat](http://subiz.com/?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.1) offers excellent communication platform where website owner can engage directly with visitors, fulfill any enquiry in real-time, and actively receive feedback. All of these interaction would happen on a live chat widget docked at the pre-determined place on the webpage, running in real-time while visitor are exploring the website. This fully functional live chat tool will turn website visitor into paying customers, increase conversion rates, and generate more loyal customers.
+[Subiz Live Chat](http://subiz.com/?utm_source=plugin_wp&utm_medium=plugin&utm_campaign=plugin_wp1.1) offers an excellent customer interaction channel where sales and customer service team can communicate directly with visitors, fulfil any enquiry in real-time, and actively receive feedback. All of these interaction would happen on a live chat widget docked at the pre-determined place on the webpage, running in real-time while visitor are exploring the website. This fully functional live chat tool will turn website visitor into paying customers, increase conversion rates, and generate more loyal customers.
 
 [youtube https://www.youtube.com/watch?v=vuoZw77XivQ]
 
@@ -36,17 +36,17 @@ Language available: English, Portuguese, French, Italiano, Espanol, Germany, Vie
 Subiz combines all powerful features into a live chat solution to provide premium customer service. 
 A website without subiz is nothing different comparing to a store without salesperson. 
 
-Apply Subiz Live Chat plugin now and [sign up here](https://dashboard.subiz.com/signup.html?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.1) for free!
+Apply Subiz Live Chat plugin now and [sign up here](https://dashboard.subiz.com/signup.html?utm_source=plugin_wp&utm_medium=plugin&utm_campaign=plugin_wp1.1) for free!
 
 **Don't forget to follow and love Subiz:**
-[Support Center](http://support.subiz.com/support/home/?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.1),
-[Blog](http://subiz.com/blog/?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.1),
+[Support Center](http://support.subiz.com/support/home/?utm_source=plugin_wp&utm_medium=plugin&utm_campaign=plugin_wp1.1),
+[Blog](http://subiz.com/blog/?utm_source=plugin_wp&utm_medium=plugin&utm_campaign=plugin_wp1.1),
 [Facebook](https://www.facebook.com/subizdotcom),
 [Twitter](https://twitter.com/subizdotcom),
 
 == Installation ==
 
-* Register account at [Subiz.com](https://dashboard.subiz.com/signup.html?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.1) 
+* Register account at [Subiz.com](https://dashboard.subiz.com/signup.html?utm_source=plugin_wp&utm_medium=plugin&utm_campaign=plugin_wp1.1) 
 * Login to Subiz Dashboard and find your license ID
 * Download Subiz plugin from WordPress plugin directory.
 * Install Subiz widget in Plugin section of your WordPress Dashboard
@@ -67,7 +67,7 @@ Though designed to work on most browsers, Subiz works best in the following envi
 The plugin comes with a free plan specially tailored for WordPress users. Power users can purchase upgrade options anytime.
 
 = How can I upgrade my account? =
-Follow the instruction to create Subscription: [How to create subscription](http://support.subiz.com/support/solutions/articles/3000004814-how-to-create-a-subscription-?utm_source=plugin_wp&utm_medium=link&utm_campaign=plugin_wp1.1)
+Follow the instruction to create Subscription: [How to create subscription](http://support.subiz.com/support/solutions/articles/3000004814-how-to-create-a-subscription-?utm_source=plugin_wp&utm_medium=plugin&utm_campaign=plugin_wp1.1)
 
 = How can I invite visitors to chat? =
 There are 2 ways:
