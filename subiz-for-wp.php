@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /*
   Plugin Name: Subiz Live Chat
   Plugin URI: http://support.subiz.com/support/solutions/articles/76904-subiz-plugins
